@@ -1,0 +1,15 @@
+members_to_delete = {
+    123456789: "Ivan Ivanov"
+}
+
+groups_with_admins = {
+-1111111111111: 222222222,
+}
+
+admin_groups = {
+-1111111111111: 'name',
+}
+
+all_groups = {
+-1111111111111: 'name',
+}
